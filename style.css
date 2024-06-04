@@ -1,0 +1,23 @@
+h1 {
+    text-align:center;
+    color: yellow;
+    border-style: groove;
+    border-width: 5px;
+    border-color: aquamarine;
+    background: darkred;
+    font-family: cursive;
+}
+
+body {
+    background-color: brown;
+}
+h2 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: bisque;
+}
+h3 {
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: bisque;
+}
